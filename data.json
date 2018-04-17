@@ -1,0 +1,852 @@
+[
+    {
+      "ID": 1,
+      "Dia": "viernes",
+      "ArtistaGrupo": "Rey Pila",
+      "Escenario": "Tecate Light",
+      "Fecha": "20/04/2018",
+      "Inicio": "15:55",
+      "Fin": "16:25",
+      "Duracion": "0:30"
+    },
+    {
+      "ID": 2,
+      "Dia": "viernes",
+      "ArtistaGrupo": "Jonáz",
+      "Escenario": "Tecate Light",
+      "Fecha": "20/04/2018",
+      "Inicio": "16:45",
+      "Fin": "17:15",
+      "Duracion": "0:30"
+    },
+    {
+      "ID": 3,
+      "Dia": "viernes",
+      "ArtistaGrupo": "Camilo VII",
+      "Escenario": "Tecate Light",
+      "Fecha": "20/04/2018",
+      "Inicio": "17:40",
+      "Fin": "18:15",
+      "Duracion": "0:35"
+    },
+    {
+      "ID": 4,
+      "Dia": "viernes",
+      "ArtistaGrupo": "Natalia Lafourcade",
+      "Escenario": "Tecate Light",
+      "Fecha": "20/04/2018",
+      "Inicio": "18:55",
+      "Fin": "19:55",
+      "Duracion": "1:00"
+    },
+    {
+      "ID": 5,
+      "Dia": "viernes",
+      "ArtistaGrupo": "Fobia",
+      "Escenario": "Tecate Light",
+      "Fecha": "20/04/2018",
+      "Inicio": "20:35",
+      "Fin": "21:35",
+      "Duracion": "1:00"
+    },
+    {
+      "ID": 6,
+      "Dia": "viernes",
+      "ArtistaGrupo": "Zoé",
+      "Escenario": "Tecate Light",
+      "Fecha": "20/04/2018",
+      "Inicio": "22:15",
+      "Fin": "23:30",
+      "Duracion": "1:15"
+    },
+    {
+      "ID": 7,
+      "Dia": "viernes",
+      "ArtistaGrupo": "Muse",
+      "Escenario": "Tecate Light",
+      "Fecha": "21/04/2018",
+      "Inicio": "0:30",
+      "Fin": "1:50",
+      "Duracion": "1:20"
+    },
+    {
+      "ID": 8,
+      "Dia": "viernes",
+      "ArtistaGrupo": "Costera",
+      "Escenario": "Tecate Original",
+      "Fecha": "20/04/2018",
+      "Inicio": "16:35",
+      "Fin": "17:05",
+      "Duracion": "0:30"
+    },
+    {
+      "ID": 9,
+      "Dia": "viernes",
+      "ArtistaGrupo": "DLD",
+      "Escenario": "Tecate Original",
+      "Fecha": "20/04/2018",
+      "Inicio": "17:45",
+      "Fin": "18:30",
+      "Duracion": "0:45"
+    },
+    {
+      "ID": 10,
+      "Dia": "viernes",
+      "ArtistaGrupo": "Cheat Codes",
+      "Escenario": "Tecate Original",
+      "Fecha": "20/04/2018",
+      "Inicio": "19:30",
+      "Fin": "20:25",
+      "Duracion": "0:55"
+    },
+    {
+      "ID": 11,
+      "Dia": "viernes",
+      "ArtistaGrupo": "Franz Ferdinand",
+      "Escenario": "Tecate Original",
+      "Fecha": "20/04/2018",
+      "Inicio": "21:45",
+      "Fin": "22:25",
+      "Duracion": "0:40"
+    },
+    {
+      "ID": 12,
+      "Dia": "viernes",
+      "ArtistaGrupo": "Los Auténticos Decadentes",
+      "Escenario": "Tecate Original",
+      "Fecha": "20/04/2018",
+      "Inicio": "23:50",
+      "Fin": "1:05",
+      "Duracion": "1:15"
+    },
+    {
+      "ID": 13,
+      "Dia": "viernes",
+      "ArtistaGrupo": "La Toma",
+      "Escenario": "Escenario AT&T",
+      "Fecha": "20/04/2018",
+      "Inicio": "16:05",
+      "Fin": "16:35",
+      "Duracion": "0:30"
+    },
+    {
+      "ID": 14,
+      "Dia": "viernes",
+      "ArtistaGrupo": "The Las Internationale",
+      "Escenario": "Escenario AT&T",
+      "Fecha": "20/04/2018",
+      "Inicio": "17:05",
+      "Fin": "17:45",
+      "Duracion": "0:40"
+    },
+    {
+      "ID": 15,
+      "Dia": "viernes",
+      "ArtistaGrupo": "Richard Ashcroft",
+      "Escenario": "Escenario AT&T",
+      "Fecha": "20/04/2018",
+      "Inicio": "18:30",
+      "Fin": "19:30",
+      "Duracion": "1:00"
+    },
+    {
+      "ID": 16,
+      "Dia": "viernes",
+      "ArtistaGrupo": "Band of Horses",
+      "Escenario": "Escenario AT&T",
+      "Fecha": "20/04/2018",
+      "Inicio": "20:35",
+      "Fin": "21:35",
+      "Duracion": "1:00"
+    },
+    {
+      "ID": 17,
+      "Dia": "viernes",
+      "ArtistaGrupo": "Sebastián Yatra",
+      "Escenario": "Escenario AT&T",
+      "Fecha": "20/04/2018",
+      "Inicio": "22:45",
+      "Fin": "23:45",
+      "Duracion": "1:00"
+    },
+    {
+      "ID": 18,
+      "Dia": "viernes",
+      "ArtistaGrupo": "Gondwana",
+      "Escenario": "Escenario AT&T",
+      "Fecha": "21/04/2018",
+      "Inicio": "1:05",
+      "Fin": "2:00",
+      "Duracion": "0:55"
+    },
+    {
+      "ID": 19,
+      "Dia": "viernes",
+      "ArtistaGrupo": "Leon Leiden",
+      "Escenario": "Club Social",
+      "Fecha": "20/04/2018",
+      "Inicio": "16:00",
+      "Fin": "16:35",
+      "Duracion": "0:35"
+    },
+    {
+      "ID": 20,
+      "Dia": "viernes",
+      "ArtistaGrupo": "Nurrydog",
+      "Escenario": "Club Social",
+      "Fecha": "20/04/2018",
+      "Inicio": "16:35",
+      "Fin": "17:10",
+      "Duracion": "0:35"
+    },
+    {
+      "ID": 21,
+      "Dia": "viernes",
+      "ArtistaGrupo": "Mawbb",
+      "Escenario": "Club Social",
+      "Fecha": "20/04/2018",
+      "Inicio": "17:10",
+      "Fin": "17:50",
+      "Duracion": "0:40"
+    },
+    {
+      "ID": 22,
+      "Dia": "viernes",
+      "ArtistaGrupo": "Israel Torres",
+      "Escenario": "Club Social",
+      "Fecha": "20/04/2018",
+      "Inicio": "17:50",
+      "Fin": "18:35",
+      "Duracion": "0:45"
+    },
+    {
+      "ID": 23,
+      "Dia": "viernes",
+      "ArtistaGrupo": "Noise Cans",
+      "Escenario": "Club Social",
+      "Fecha": "20/04/2018",
+      "Inicio": "18:35",
+      "Fin": "19:25",
+      "Duracion": "0:50"
+    },
+    {
+      "ID": 24,
+      "Dia": "viernes",
+      "ArtistaGrupo": "Gil Montiel",
+      "Escenario": "Club Social",
+      "Fecha": "20/04/2018",
+      "Inicio": "19:25",
+      "Fin": "20:15",
+      "Duracion": "0:50"
+    },
+    {
+      "ID": 25,
+      "Dia": "viernes",
+      "ArtistaGrupo": "Ghetto Kids",
+      "Escenario": "Club Social",
+      "Fecha": "20/04/2018",
+      "Inicio": "20:15",
+      "Fin": "21:15",
+      "Duracion": "1:00"
+    },
+    {
+      "ID": 26,
+      "Dia": "viernes",
+      "ArtistaGrupo": "Lauren Lane",
+      "Escenario": "Club Social",
+      "Fecha": "20/04/2018",
+      "Inicio": "21:15",
+      "Fin": "22:15",
+      "Duracion": "1:00"
+    },
+    {
+      "ID": 27,
+      "Dia": "viernes",
+      "ArtistaGrupo": "Snbrn",
+      "Escenario": "Club Social",
+      "Fecha": "20/04/2018",
+      "Inicio": "22:15",
+      "Fin": "23:30",
+      "Duracion": "1:15"
+    },
+    {
+      "ID": 28,
+      "Dia": "viernes",
+      "ArtistaGrupo": "Mike Perry",
+      "Escenario": "Club Social",
+      "Fecha": "20/04/2018",
+      "Inicio": "23:30",
+      "Fin": "1:00",
+      "Duracion": "1:30"
+    },
+    {
+      "ID": 29,
+      "Dia": "viernes",
+      "ArtistaGrupo": "Gryffin",
+      "Escenario": "Club Social",
+      "Fecha": "21/04/2018",
+      "Inicio": "1:00",
+      "Fin": "2:30",
+      "Duracion": "1:30"
+    },
+    {
+      "ID": 30,
+      "Dia": "viernes",
+      "ArtistaGrupo": "Sorpresa (1)",
+      "Escenario": "Sorpresa",
+      "Fecha": "20/04/2018",
+      "Inicio": "20:25",
+      "Fin": "20:35",
+      "Duracion": "0:10"
+    },
+    {
+      "ID": 31,
+      "Dia": "viernes",
+      "ArtistaGrupo": "Sorpresa (2)",
+      "Escenario": "Sorpresa",
+      "Fecha": "20/04/2018",
+      "Inicio": "21:35",
+      "Fin": "21:45",
+      "Duracion": "0:10"
+    },
+    {
+      "ID": 32,
+      "Dia": "viernes",
+      "ArtistaGrupo": "Volován",
+      "Escenario": "Escenario Acústico",
+      "Fecha": "20/04/2018",
+      "Inicio": "19:45",
+      "Fin": "20:25",
+      "Duracion": "0:40"
+    },
+    {
+      "ID": 33,
+      "Dia": "viernes",
+      "ArtistaGrupo": "Javier Blake",
+      "Escenario": "Escenario Acústico",
+      "Fecha": "20/04/2018",
+      "Inicio": "21:45",
+      "Fin": "22:15",
+      "Duracion": "0:30"
+    },
+    {
+      "ID": 34,
+      "Dia": "viernes",
+      "ArtistaGrupo": "Fara Fara (1)",
+      "Escenario": "Pilo's Bar",
+      "Fecha": "20/04/2018",
+      "Inicio": "18:00",
+      "Fin": "19:45",
+      "Duracion": "1:45"
+    },
+    {
+      "ID": 35,
+      "Dia": "viernes",
+      "ArtistaGrupo": "Fara Fara (2)",
+      "Escenario": "Pilo's Bar",
+      "Fecha": "20/04/2018",
+      "Inicio": "20:15",
+      "Fin": "22:00",
+      "Duracion": "1:45"
+    },
+    {
+      "ID": 36,
+      "Dia": "viernes",
+      "ArtistaGrupo": "Sonora Dinamita",
+      "Escenario": "Pilo's Bar",
+      "Fecha": "20/04/2018",
+      "Inicio": "22:30",
+      "Fin": "0:00",
+      "Duracion": "1:30"
+    },
+    {
+      "ID": 37,
+      "Dia": "viernes",
+      "ArtistaGrupo": "Fara Fara (3)",
+      "Escenario": "Pilo's Bar",
+      "Fecha": "21/04/2018",
+      "Inicio": "0:30",
+      "Fin": "2:15",
+      "Duracion": "1:45"
+    },
+    {
+      "ID": 38,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Elsa y Elmar",
+      "Escenario": "Tecate Light",
+      "Fecha": "21/04/2018",
+      "Inicio": "12:55",
+      "Fin": "13:25",
+      "Duracion": "0:30"
+    },
+    {
+      "ID": 39,
+      "Dia": "sabado",
+      "ArtistaGrupo": "La Vida Bohéme",
+      "Escenario": "Tecate Light",
+      "Fecha": "21/04/2018",
+      "Inicio": "13:55",
+      "Fin": "14:40",
+      "Duracion": "0:45"
+    },
+    {
+      "ID": 40,
+      "Dia": "sabado",
+      "ArtistaGrupo": "El Gran Silencio",
+      "Escenario": "Tecate Light",
+      "Fecha": "21/04/2018",
+      "Inicio": "15:10",
+      "Fin": "16:10",
+      "Duracion": "1:00"
+    },
+    {
+      "ID": 41,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Enjambre",
+      "Escenario": "Tecate Light",
+      "Fecha": "21/04/2018",
+      "Inicio": "16:50",
+      "Fin": "17:50",
+      "Duracion": "1:00"
+    },
+    {
+      "ID": 42,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Don Diablo",
+      "Escenario": "Tecate Light",
+      "Fecha": "21/04/2018",
+      "Inicio": "18:30",
+      "Fin": "19:30",
+      "Duracion": "1:00"
+    },
+    {
+      "ID": 43,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Bunbury",
+      "Escenario": "Tecate Light",
+      "Fecha": "21/04/2018",
+      "Inicio": "20:20",
+      "Fin": "21:30",
+      "Duracion": "1:10"
+    },
+    {
+      "ID": 44,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Queens of the Stone Age",
+      "Escenario": "Tecate Light",
+      "Fecha": "21/04/2018",
+      "Inicio": "22:20",
+      "Fin": "23:35",
+      "Duracion": "1:15"
+    },
+    {
+      "ID": 45,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Molotov",
+      "Escenario": "Tecate Light",
+      "Fecha": "22/04/2018",
+      "Inicio": "0:35",
+      "Fin": "1:50",
+      "Duracion": "1:15"
+    },
+    {
+      "ID": 46,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Chdkf",
+      "Escenario": "Tecate Original",
+      "Fecha": "21/04/2018",
+      "Inicio": "12:30",
+      "Fin": "12:55",
+      "Duracion": "0:25"
+    },
+    {
+      "ID": 47,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Los de Abajo",
+      "Escenario": "Tecate Original",
+      "Fecha": "21/04/2018",
+      "Inicio": "13:30",
+      "Fin": "14:05",
+      "Duracion": "0:35"
+    },
+    {
+      "ID": 48,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Comisario Pantera",
+      "Escenario": "Tecate Original",
+      "Fecha": "21/04/2018",
+      "Inicio": "14:40",
+      "Fin": "15:20",
+      "Duracion": "0:40"
+    },
+    {
+      "ID": 49,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Nothing but Thieves",
+      "Escenario": "Tecate Original",
+      "Fecha": "21/04/2018",
+      "Inicio": "16:00",
+      "Fin": "16:45",
+      "Duracion": "0:45"
+    },
+    {
+      "ID": 50,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Morat",
+      "Escenario": "Tecate Original",
+      "Fecha": "21/04/2018",
+      "Inicio": "17:30",
+      "Fin": "18:30",
+      "Duracion": "1:00"
+    },
+    {
+      "ID": 51,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Farruko",
+      "Escenario": "Tecate Original",
+      "Fecha": "21/04/2018",
+      "Inicio": "19:40",
+      "Fin": "20:40",
+      "Duracion": "1:00"
+    },
+    {
+      "ID": 52,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Panteón Rococó",
+      "Escenario": "Tecate Original",
+      "Fecha": "21/04/2018",
+      "Inicio": "21:40",
+      "Fin": "22:50",
+      "Duracion": "1:10"
+    },
+    {
+      "ID": 53,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Justice",
+      "Escenario": "Tecate Original",
+      "Fecha": "21/04/2018",
+      "Inicio": "23:50",
+      "Fin": "1:10",
+      "Duracion": "1:20"
+    },
+    {
+      "ID": 54,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Sabino",
+      "Escenario": "Escenario AT&T",
+      "Fecha": "21/04/2018",
+      "Inicio": "13:00",
+      "Fin": "13:30",
+      "Duracion": "0:30"
+    },
+    {
+      "ID": 55,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Izal",
+      "Escenario": "Escenario AT&T",
+      "Fecha": "21/04/2018",
+      "Inicio": "14:05",
+      "Fin": "14:40",
+      "Duracion": "0:35"
+    },
+    {
+      "ID": 56,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Paté de Fuá",
+      "Escenario": "Escenario AT&T",
+      "Fecha": "21/04/2018",
+      "Inicio": "15:20",
+      "Fin": "16:00",
+      "Duracion": "0:40"
+    },
+    {
+      "ID": 57,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Monsieur Pernié",
+      "Escenario": "Escenario AT&T",
+      "Fecha": "21/04/2018",
+      "Inicio": "16:45",
+      "Fin": "17:30",
+      "Duracion": "0:45"
+    },
+    {
+      "ID": 58,
+      "Dia": "sabado",
+      "ArtistaGrupo": "División Minúscula",
+      "Escenario": "Escenario AT&T",
+      "Fecha": "21/04/2018",
+      "Inicio": "18:30",
+      "Fin": "19:30",
+      "Duracion": "1:00"
+    },
+    {
+      "ID": 59,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Miranda!",
+      "Escenario": "Escenario AT&T",
+      "Fecha": "21/04/2018",
+      "Inicio": "20:40",
+      "Fin": "21:30",
+      "Duracion": "0:50"
+    },
+    {
+      "ID": 60,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Zona Ganjah",
+      "Escenario": "Escenario AT&T",
+      "Fecha": "21/04/2018",
+      "Inicio": "22:50",
+      "Fin": "23:45",
+      "Duracion": "0:55"
+    },
+    {
+      "ID": 61,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Bersuit Vergarabat",
+      "Escenario": "Escenario AT&T",
+      "Fecha": "22/04/2018",
+      "Inicio": "13:20",
+      "Fin": "14:00",
+      "Duracion": "0:40"
+    },
+    {
+      "ID": 62,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Anthon Dunix",
+      "Escenario": "Club Social",
+      "Fecha": "21/04/2018",
+      "Inicio": "14:00",
+      "Fin": "14:40",
+      "Duracion": "0:40"
+    },
+    {
+      "ID": 63,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Armi Diamonds",
+      "Escenario": "Club Social",
+      "Fecha": "21/04/2018",
+      "Inicio": "14:40",
+      "Fin": "15:25",
+      "Duracion": "0:45"
+    },
+    {
+      "ID": 64,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Chelsea Leyland",
+      "Escenario": "Club Social",
+      "Fecha": "21/04/2018",
+      "Inicio": "15:25",
+      "Fin": "16:15",
+      "Duracion": "0:50"
+    },
+    {
+      "ID": 65,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Fancy Folks",
+      "Escenario": "Club Social",
+      "Fecha": "21/04/2018",
+      "Inicio": "16:15",
+      "Fin": "17:05",
+      "Duracion": "0:50"
+    },
+    {
+      "ID": 66,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Broncowave",
+      "Escenario": "Club Social",
+      "Fecha": "21/04/2018",
+      "Inicio": "17:05",
+      "Fin": "17:35",
+      "Duracion": "0:30"
+    },
+    {
+      "ID": 67,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Marcelo Gamboa",
+      "Escenario": "Club Social",
+      "Fecha": "21/04/2018",
+      "Inicio": "17:35",
+      "Fin": "18:25",
+      "Duracion": "0:50"
+    },
+    {
+      "ID": 68,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Ilse Hendrix",
+      "Escenario": "Club Social",
+      "Fecha": "21/04/2018",
+      "Inicio": "18:25",
+      "Fin": "19:15",
+      "Duracion": "0:50"
+    },
+    {
+      "ID": 69,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Lujavo",
+      "Escenario": "Club Social",
+      "Fecha": "21/04/2018",
+      "Inicio": "19:15",
+      "Fin": "20:05",
+      "Duracion": "0:50"
+    },
+    {
+      "ID": 70,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Future Feelings",
+      "Escenario": "Club Social",
+      "Fecha": "21/04/2018",
+      "Inicio": "20:05",
+      "Fin": "21:00",
+      "Duracion": "0:55"
+    },
+    {
+      "ID": 71,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Madds",
+      "Escenario": "Club Social",
+      "Fecha": "21/04/2018",
+      "Inicio": "21:00",
+      "Fin": "22:00",
+      "Duracion": "1:00"
+    },
+    {
+      "ID": 72,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Win & Woo",
+      "Escenario": "Club Social",
+      "Fecha": "21/04/2018",
+      "Inicio": "22:00",
+      "Fin": "23:00",
+      "Duracion": "1:00"
+    },
+    {
+      "ID": 73,
+      "Dia": "sabado",
+      "ArtistaGrupo": "The Knocks",
+      "Escenario": "Club Social",
+      "Fecha": "21/04/2018",
+      "Inicio": "23:00",
+      "Fin": "0:00",
+      "Duracion": "1:00"
+    },
+    {
+      "ID": 74,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Jullionaire",
+      "Escenario": "Club Social",
+      "Fecha": "22/04/2018",
+      "Inicio": "0:00",
+      "Fin": "1:15",
+      "Duracion": "1:15"
+    },
+    {
+      "ID": 75,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Autograf",
+      "Escenario": "Club Social",
+      "Fecha": "22/04/2018",
+      "Inicio": "1:15",
+      "Fin": "2:30",
+      "Duracion": "1:15"
+    },
+    {
+      "ID": 76,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Sorpresa (1)",
+      "Escenario": "Sorpresa",
+      "Fecha": "21/04/2018",
+      "Inicio": "19:30",
+      "Fin": "19:40",
+      "Duracion": "0:10"
+    },
+    {
+      "ID": 77,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Sorpresa (2)",
+      "Escenario": "Sorpresa",
+      "Fecha": "21/04/2018",
+      "Inicio": "21:30",
+      "Fin": "21:40",
+      "Duracion": "0:10"
+    },
+    {
+      "ID": 78,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Genitallica",
+      "Escenario": "Escenario Acústico",
+      "Fecha": "21/04/2018",
+      "Inicio": "16:50",
+      "Fin": "17:20",
+      "Duracion": "0:30"
+    },
+    {
+      "ID": 79,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Enjambre",
+      "Escenario": "Escenario Acústico",
+      "Fecha": "21/04/2018",
+      "Inicio": "19:40",
+      "Fin": "20:10",
+      "Duracion": "0:30"
+    },
+    {
+      "ID": 80,
+      "Dia": "sabado",
+      "ArtistaGrupo": "DLD",
+      "Escenario": "Escenario Acústico",
+      "Fecha": "21/04/2018",
+      "Inicio": "21:40",
+      "Fin": "22:10",
+      "Duracion": "0:30"
+    },
+    {
+      "ID": 81,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Fara Fara (1)",
+      "Escenario": "Pilo's Bar",
+      "Fecha": "21/04/2018",
+      "Inicio": "16:00",
+      "Fin": "17:45",
+      "Duracion": "1:45"
+    },
+    {
+      "ID": 82,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Becerros",
+      "Escenario": "Pilo's Bar",
+      "Fecha": "21/04/2018",
+      "Inicio": "18:15",
+      "Fin": "19:30",
+      "Duracion": "1:15"
+    },
+    {
+      "ID": 83,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Fara Fara (2)",
+      "Escenario": "Pilo's Bar",
+      "Fecha": "21/04/2018",
+      "Inicio": "20:00",
+      "Fin": "21:45",
+      "Duracion": "1:45"
+    },
+    {
+      "ID": 84,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Los Kdts de Linares",
+      "Escenario": "Pilo's Bar",
+      "Fecha": "21/04/2018",
+      "Inicio": "22:15",
+      "Fin": "23:45",
+      "Duracion": "1:30"
+    },
+    {
+      "ID": 85,
+      "Dia": "sabado",
+      "ArtistaGrupo": "Fara Fara (3)",
+      "Escenario": "Pilo's Bar",
+      "Fecha": "21/04/2018",
+      "Inicio": "0:15",
+      "Fin": "2:00",
+      "Duracion": "1:45"
+    }
+   ]
