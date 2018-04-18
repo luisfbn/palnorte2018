@@ -1,7 +1,9 @@
-[
+{
+  "grupos" :
+  [
     {
       "ID": 1,
-      "Dia": "viernes",
+      "dia": "viernes",
       "ArtistaGrupo": "Rey Pila",
       "Escenario": "Tecate Light",
       "Fecha": "20/04/2018",
@@ -11,7 +13,7 @@
     },
     {
       "ID": 2,
-      "Dia": "viernes",
+      "dia": "viernes",
       "ArtistaGrupo": "Jonáz",
       "Escenario": "Tecate Light",
       "Fecha": "20/04/2018",
@@ -21,7 +23,7 @@
     },
     {
       "ID": 3,
-      "Dia": "viernes",
+      "dia": "viernes",
       "ArtistaGrupo": "Camilo VII",
       "Escenario": "Tecate Light",
       "Fecha": "20/04/2018",
@@ -31,7 +33,7 @@
     },
     {
       "ID": 4,
-      "Dia": "viernes",
+      "dia": "viernes",
       "ArtistaGrupo": "Natalia Lafourcade",
       "Escenario": "Tecate Light",
       "Fecha": "20/04/2018",
@@ -41,7 +43,7 @@
     },
     {
       "ID": 5,
-      "Dia": "viernes",
+      "dia": "viernes",
       "ArtistaGrupo": "Fobia",
       "Escenario": "Tecate Light",
       "Fecha": "20/04/2018",
@@ -51,7 +53,7 @@
     },
     {
       "ID": 6,
-      "Dia": "viernes",
+      "dia": "viernes",
       "ArtistaGrupo": "Zoé",
       "Escenario": "Tecate Light",
       "Fecha": "20/04/2018",
@@ -61,7 +63,7 @@
     },
     {
       "ID": 7,
-      "Dia": "viernes",
+      "dia": "viernes",
       "ArtistaGrupo": "Muse",
       "Escenario": "Tecate Light",
       "Fecha": "21/04/2018",
@@ -71,7 +73,7 @@
     },
     {
       "ID": 8,
-      "Dia": "viernes",
+      "dia": "viernes",
       "ArtistaGrupo": "Costera",
       "Escenario": "Tecate Original",
       "Fecha": "20/04/2018",
@@ -81,7 +83,7 @@
     },
     {
       "ID": 9,
-      "Dia": "viernes",
+      "dia": "viernes",
       "ArtistaGrupo": "DLD",
       "Escenario": "Tecate Original",
       "Fecha": "20/04/2018",
@@ -91,7 +93,7 @@
     },
     {
       "ID": 10,
-      "Dia": "viernes",
+      "dia": "viernes",
       "ArtistaGrupo": "Cheat Codes",
       "Escenario": "Tecate Original",
       "Fecha": "20/04/2018",
@@ -101,7 +103,7 @@
     },
     {
       "ID": 11,
-      "Dia": "viernes",
+      "dia": "viernes",
       "ArtistaGrupo": "Franz Ferdinand",
       "Escenario": "Tecate Original",
       "Fecha": "20/04/2018",
@@ -111,7 +113,7 @@
     },
     {
       "ID": 12,
-      "Dia": "viernes",
+      "dia": "viernes",
       "ArtistaGrupo": "Los Auténticos Decadentes",
       "Escenario": "Tecate Original",
       "Fecha": "20/04/2018",
@@ -121,7 +123,7 @@
     },
     {
       "ID": 13,
-      "Dia": "viernes",
+      "dia": "viernes",
       "ArtistaGrupo": "La Toma",
       "Escenario": "Escenario AT&T",
       "Fecha": "20/04/2018",
@@ -131,7 +133,7 @@
     },
     {
       "ID": 14,
-      "Dia": "viernes",
+      "dia": "viernes",
       "ArtistaGrupo": "The Las Internationale",
       "Escenario": "Escenario AT&T",
       "Fecha": "20/04/2018",
@@ -141,7 +143,7 @@
     },
     {
       "ID": 15,
-      "Dia": "viernes",
+      "dia": "viernes",
       "ArtistaGrupo": "Richard Ashcroft",
       "Escenario": "Escenario AT&T",
       "Fecha": "20/04/2018",
@@ -151,7 +153,7 @@
     },
     {
       "ID": 16,
-      "Dia": "viernes",
+      "dia": "viernes",
       "ArtistaGrupo": "Band of Horses",
       "Escenario": "Escenario AT&T",
       "Fecha": "20/04/2018",
@@ -161,7 +163,7 @@
     },
     {
       "ID": 17,
-      "Dia": "viernes",
+      "dia": "viernes",
       "ArtistaGrupo": "Sebastián Yatra",
       "Escenario": "Escenario AT&T",
       "Fecha": "20/04/2018",
@@ -171,7 +173,7 @@
     },
     {
       "ID": 18,
-      "Dia": "viernes",
+      "dia": "viernes",
       "ArtistaGrupo": "Gondwana",
       "Escenario": "Escenario AT&T",
       "Fecha": "21/04/2018",
@@ -181,7 +183,7 @@
     },
     {
       "ID": 19,
-      "Dia": "viernes",
+      "dia": "viernes",
       "ArtistaGrupo": "Leon Leiden",
       "Escenario": "Club Social",
       "Fecha": "20/04/2018",
@@ -191,7 +193,7 @@
     },
     {
       "ID": 20,
-      "Dia": "viernes",
+      "dia": "viernes",
       "ArtistaGrupo": "Nurrydog",
       "Escenario": "Club Social",
       "Fecha": "20/04/2018",
@@ -201,7 +203,7 @@
     },
     {
       "ID": 21,
-      "Dia": "viernes",
+      "dia": "viernes",
       "ArtistaGrupo": "Mawbb",
       "Escenario": "Club Social",
       "Fecha": "20/04/2018",
@@ -211,7 +213,7 @@
     },
     {
       "ID": 22,
-      "Dia": "viernes",
+      "dia": "viernes",
       "ArtistaGrupo": "Israel Torres",
       "Escenario": "Club Social",
       "Fecha": "20/04/2018",
@@ -221,7 +223,7 @@
     },
     {
       "ID": 23,
-      "Dia": "viernes",
+      "dia": "viernes",
       "ArtistaGrupo": "Noise Cans",
       "Escenario": "Club Social",
       "Fecha": "20/04/2018",
@@ -231,7 +233,7 @@
     },
     {
       "ID": 24,
-      "Dia": "viernes",
+      "dia": "viernes",
       "ArtistaGrupo": "Gil Montiel",
       "Escenario": "Club Social",
       "Fecha": "20/04/2018",
@@ -241,7 +243,7 @@
     },
     {
       "ID": 25,
-      "Dia": "viernes",
+      "dia": "viernes",
       "ArtistaGrupo": "Ghetto Kids",
       "Escenario": "Club Social",
       "Fecha": "20/04/2018",
@@ -251,7 +253,7 @@
     },
     {
       "ID": 26,
-      "Dia": "viernes",
+      "dia": "viernes",
       "ArtistaGrupo": "Lauren Lane",
       "Escenario": "Club Social",
       "Fecha": "20/04/2018",
@@ -261,7 +263,7 @@
     },
     {
       "ID": 27,
-      "Dia": "viernes",
+      "dia": "viernes",
       "ArtistaGrupo": "Snbrn",
       "Escenario": "Club Social",
       "Fecha": "20/04/2018",
@@ -271,7 +273,7 @@
     },
     {
       "ID": 28,
-      "Dia": "viernes",
+      "dia": "viernes",
       "ArtistaGrupo": "Mike Perry",
       "Escenario": "Club Social",
       "Fecha": "20/04/2018",
@@ -281,7 +283,7 @@
     },
     {
       "ID": 29,
-      "Dia": "viernes",
+      "dia": "viernes",
       "ArtistaGrupo": "Gryffin",
       "Escenario": "Club Social",
       "Fecha": "21/04/2018",
@@ -291,7 +293,7 @@
     },
     {
       "ID": 30,
-      "Dia": "viernes",
+      "dia": "viernes",
       "ArtistaGrupo": "Sorpresa (1)",
       "Escenario": "Sorpresa",
       "Fecha": "20/04/2018",
@@ -301,7 +303,7 @@
     },
     {
       "ID": 31,
-      "Dia": "viernes",
+      "dia": "viernes",
       "ArtistaGrupo": "Sorpresa (2)",
       "Escenario": "Sorpresa",
       "Fecha": "20/04/2018",
@@ -311,7 +313,7 @@
     },
     {
       "ID": 32,
-      "Dia": "viernes",
+      "dia": "viernes",
       "ArtistaGrupo": "Volován",
       "Escenario": "Escenario Acústico",
       "Fecha": "20/04/2018",
@@ -321,7 +323,7 @@
     },
     {
       "ID": 33,
-      "Dia": "viernes",
+      "dia": "viernes",
       "ArtistaGrupo": "Javier Blake",
       "Escenario": "Escenario Acústico",
       "Fecha": "20/04/2018",
@@ -331,7 +333,7 @@
     },
     {
       "ID": 34,
-      "Dia": "viernes",
+      "dia": "viernes",
       "ArtistaGrupo": "Fara Fara (1)",
       "Escenario": "Pilo's Bar",
       "Fecha": "20/04/2018",
@@ -341,7 +343,7 @@
     },
     {
       "ID": 35,
-      "Dia": "viernes",
+      "dia": "viernes",
       "ArtistaGrupo": "Fara Fara (2)",
       "Escenario": "Pilo's Bar",
       "Fecha": "20/04/2018",
@@ -351,7 +353,7 @@
     },
     {
       "ID": 36,
-      "Dia": "viernes",
+      "dia": "viernes",
       "ArtistaGrupo": "Sonora Dinamita",
       "Escenario": "Pilo's Bar",
       "Fecha": "20/04/2018",
@@ -361,7 +363,7 @@
     },
     {
       "ID": 37,
-      "Dia": "viernes",
+      "dia": "viernes",
       "ArtistaGrupo": "Fara Fara (3)",
       "Escenario": "Pilo's Bar",
       "Fecha": "21/04/2018",
@@ -371,7 +373,7 @@
     },
     {
       "ID": 38,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Elsa y Elmar",
       "Escenario": "Tecate Light",
       "Fecha": "21/04/2018",
@@ -381,7 +383,7 @@
     },
     {
       "ID": 39,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "La Vida Bohéme",
       "Escenario": "Tecate Light",
       "Fecha": "21/04/2018",
@@ -391,7 +393,7 @@
     },
     {
       "ID": 40,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "El Gran Silencio",
       "Escenario": "Tecate Light",
       "Fecha": "21/04/2018",
@@ -401,7 +403,7 @@
     },
     {
       "ID": 41,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Enjambre",
       "Escenario": "Tecate Light",
       "Fecha": "21/04/2018",
@@ -411,8 +413,8 @@
     },
     {
       "ID": 42,
-      "Dia": "sabado",
-      "ArtistaGrupo": "Don Diablo",
+      "dia": "sabado",
+      "ArtistaGrupo": "Don diablo",
       "Escenario": "Tecate Light",
       "Fecha": "21/04/2018",
       "Inicio": "18:30",
@@ -421,7 +423,7 @@
     },
     {
       "ID": 43,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Bunbury",
       "Escenario": "Tecate Light",
       "Fecha": "21/04/2018",
@@ -431,7 +433,7 @@
     },
     {
       "ID": 44,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Queens of the Stone Age",
       "Escenario": "Tecate Light",
       "Fecha": "21/04/2018",
@@ -441,7 +443,7 @@
     },
     {
       "ID": 45,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Molotov",
       "Escenario": "Tecate Light",
       "Fecha": "22/04/2018",
@@ -451,7 +453,7 @@
     },
     {
       "ID": 46,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Chdkf",
       "Escenario": "Tecate Original",
       "Fecha": "21/04/2018",
@@ -461,7 +463,7 @@
     },
     {
       "ID": 47,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Los de Abajo",
       "Escenario": "Tecate Original",
       "Fecha": "21/04/2018",
@@ -471,7 +473,7 @@
     },
     {
       "ID": 48,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Comisario Pantera",
       "Escenario": "Tecate Original",
       "Fecha": "21/04/2018",
@@ -481,7 +483,7 @@
     },
     {
       "ID": 49,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Nothing but Thieves",
       "Escenario": "Tecate Original",
       "Fecha": "21/04/2018",
@@ -491,7 +493,7 @@
     },
     {
       "ID": 50,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Morat",
       "Escenario": "Tecate Original",
       "Fecha": "21/04/2018",
@@ -501,7 +503,7 @@
     },
     {
       "ID": 51,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Farruko",
       "Escenario": "Tecate Original",
       "Fecha": "21/04/2018",
@@ -511,7 +513,7 @@
     },
     {
       "ID": 52,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Panteón Rococó",
       "Escenario": "Tecate Original",
       "Fecha": "21/04/2018",
@@ -521,7 +523,7 @@
     },
     {
       "ID": 53,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Justice",
       "Escenario": "Tecate Original",
       "Fecha": "21/04/2018",
@@ -531,7 +533,7 @@
     },
     {
       "ID": 54,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Sabino",
       "Escenario": "Escenario AT&T",
       "Fecha": "21/04/2018",
@@ -541,7 +543,7 @@
     },
     {
       "ID": 55,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Izal",
       "Escenario": "Escenario AT&T",
       "Fecha": "21/04/2018",
@@ -551,7 +553,7 @@
     },
     {
       "ID": 56,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Paté de Fuá",
       "Escenario": "Escenario AT&T",
       "Fecha": "21/04/2018",
@@ -561,7 +563,7 @@
     },
     {
       "ID": 57,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Monsieur Pernié",
       "Escenario": "Escenario AT&T",
       "Fecha": "21/04/2018",
@@ -571,7 +573,7 @@
     },
     {
       "ID": 58,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "División Minúscula",
       "Escenario": "Escenario AT&T",
       "Fecha": "21/04/2018",
@@ -581,7 +583,7 @@
     },
     {
       "ID": 59,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Miranda!",
       "Escenario": "Escenario AT&T",
       "Fecha": "21/04/2018",
@@ -591,7 +593,7 @@
     },
     {
       "ID": 60,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Zona Ganjah",
       "Escenario": "Escenario AT&T",
       "Fecha": "21/04/2018",
@@ -601,7 +603,7 @@
     },
     {
       "ID": 61,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Bersuit Vergarabat",
       "Escenario": "Escenario AT&T",
       "Fecha": "22/04/2018",
@@ -611,7 +613,7 @@
     },
     {
       "ID": 62,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Anthon Dunix",
       "Escenario": "Club Social",
       "Fecha": "21/04/2018",
@@ -621,8 +623,8 @@
     },
     {
       "ID": 63,
-      "Dia": "sabado",
-      "ArtistaGrupo": "Armi Diamonds",
+      "dia": "sabado",
+      "ArtistaGrupo": "Armi diamonds",
       "Escenario": "Club Social",
       "Fecha": "21/04/2018",
       "Inicio": "14:40",
@@ -631,7 +633,7 @@
     },
     {
       "ID": 64,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Chelsea Leyland",
       "Escenario": "Club Social",
       "Fecha": "21/04/2018",
@@ -641,7 +643,7 @@
     },
     {
       "ID": 65,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Fancy Folks",
       "Escenario": "Club Social",
       "Fecha": "21/04/2018",
@@ -651,7 +653,7 @@
     },
     {
       "ID": 66,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Broncowave",
       "Escenario": "Club Social",
       "Fecha": "21/04/2018",
@@ -661,7 +663,7 @@
     },
     {
       "ID": 67,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Marcelo Gamboa",
       "Escenario": "Club Social",
       "Fecha": "21/04/2018",
@@ -671,7 +673,7 @@
     },
     {
       "ID": 68,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Ilse Hendrix",
       "Escenario": "Club Social",
       "Fecha": "21/04/2018",
@@ -681,7 +683,7 @@
     },
     {
       "ID": 69,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Lujavo",
       "Escenario": "Club Social",
       "Fecha": "21/04/2018",
@@ -691,7 +693,7 @@
     },
     {
       "ID": 70,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Future Feelings",
       "Escenario": "Club Social",
       "Fecha": "21/04/2018",
@@ -701,7 +703,7 @@
     },
     {
       "ID": 71,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Madds",
       "Escenario": "Club Social",
       "Fecha": "21/04/2018",
@@ -711,7 +713,7 @@
     },
     {
       "ID": 72,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Win & Woo",
       "Escenario": "Club Social",
       "Fecha": "21/04/2018",
@@ -721,7 +723,7 @@
     },
     {
       "ID": 73,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "The Knocks",
       "Escenario": "Club Social",
       "Fecha": "21/04/2018",
@@ -731,7 +733,7 @@
     },
     {
       "ID": 74,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Jullionaire",
       "Escenario": "Club Social",
       "Fecha": "22/04/2018",
@@ -741,7 +743,7 @@
     },
     {
       "ID": 75,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Autograf",
       "Escenario": "Club Social",
       "Fecha": "22/04/2018",
@@ -751,7 +753,7 @@
     },
     {
       "ID": 76,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Sorpresa (1)",
       "Escenario": "Sorpresa",
       "Fecha": "21/04/2018",
@@ -761,7 +763,7 @@
     },
     {
       "ID": 77,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Sorpresa (2)",
       "Escenario": "Sorpresa",
       "Fecha": "21/04/2018",
@@ -771,7 +773,7 @@
     },
     {
       "ID": 78,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Genitallica",
       "Escenario": "Escenario Acústico",
       "Fecha": "21/04/2018",
@@ -781,7 +783,7 @@
     },
     {
       "ID": 79,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Enjambre",
       "Escenario": "Escenario Acústico",
       "Fecha": "21/04/2018",
@@ -791,7 +793,7 @@
     },
     {
       "ID": 80,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "DLD",
       "Escenario": "Escenario Acústico",
       "Fecha": "21/04/2018",
@@ -801,7 +803,7 @@
     },
     {
       "ID": 81,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Fara Fara (1)",
       "Escenario": "Pilo's Bar",
       "Fecha": "21/04/2018",
@@ -811,7 +813,7 @@
     },
     {
       "ID": 82,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Becerros",
       "Escenario": "Pilo's Bar",
       "Fecha": "21/04/2018",
@@ -821,7 +823,7 @@
     },
     {
       "ID": 83,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Fara Fara (2)",
       "Escenario": "Pilo's Bar",
       "Fecha": "21/04/2018",
@@ -831,7 +833,7 @@
     },
     {
       "ID": 84,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Los Kdts de Linares",
       "Escenario": "Pilo's Bar",
       "Fecha": "21/04/2018",
@@ -841,7 +843,7 @@
     },
     {
       "ID": 85,
-      "Dia": "sabado",
+      "dia": "sabado",
       "ArtistaGrupo": "Fara Fara (3)",
       "Escenario": "Pilo's Bar",
       "Fecha": "21/04/2018",
@@ -850,3 +852,4 @@
       "Duracion": "1:45"
     }
    ]
+  }
