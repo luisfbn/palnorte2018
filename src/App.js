@@ -11,7 +11,7 @@ class App extends Component {
           <h1 className="App-title">Welcome to PalNorte 2018</h1>
         </header>
         <p className="App-intro">
-          
+          Hello from <code>Heroku</code>.
         </p>
       </div>
     );
