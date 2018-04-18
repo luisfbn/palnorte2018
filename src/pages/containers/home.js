@@ -11,7 +11,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { Nav, NavItem, NavLink, TabContent,TabPane,Row, Col, Card, CardTitle, CardText, Button  } from 'reactstrap';
 import classnames from 'classnames';
 
-const iframe = '<iframe src="https://www.google.com/maps/d/embed?mid=1jiRE_a9vL6WB8T7bIBRLo0dmyAYrwz_Z" width="640" height="480"></iframe>'; 
 
 
 class Home extends Component {
@@ -22,6 +21,10 @@ class Home extends Component {
         this.state = {
             activeTab: '1'
         };
+        
+    // console.log("ok")
+    // console.log(this.props)
+    // console.log("end")
     }
 
     toggle(tab) {
@@ -93,8 +96,8 @@ class Home extends Component {
           <TabPane tabId="3">
             <Row>
               <Col sm="12">
-              {console.log(iframe)}
-              <Mapa iframe={iframe} />
+              
+              <Mapa iframe={this.props.iframe} />
               </Col>
             </Row>
           </TabPane>

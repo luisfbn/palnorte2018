@@ -9,13 +9,14 @@ function Grupos(props) {
     <div className="Categories">
       
       {
-        
-        //console.log(props.grupos)
-        //props.grupos.map((item) =>{
         props.grupos
+          .sort((a, b) => { 
+                              var a1 = new Date(b.fecha.substring(6, 10), b.fecha.substring(3, 5)-1, b.fecha.substring(0, 2), b.inicio.split(':')[0], b.inicio.split(':')[1], 0);
+                              var b1 = new Date(a.fecha.substring(6, 10), a.fecha.substring(3, 5)-1, a.fecha.substring(0, 2), a.inicio.split(':')[0], a.inicio.split(':')[1], 0);
+                              return a1>b1 ? -1 : a1<b1 ? 1 : 0;
+                          }) 
           .filter(gpo => {return gpo.dia === props.dia})
           .map((item) =>{
-          //var groupies = item.filter(f => {f.Dia==props.dia})
 
           return (
             <Grupo
