@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import HomeLayout from '../components/home-layout';
 import Grupos from '../../components/grupos';
 import Mapa from '../components/mapa';
-
+import './home.css';
 import Related from '../components/related';
 //import logo from '../../logo.svg';
 import HandleError from '../../error/containers/handle-error';
@@ -11,21 +11,58 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { Nav, NavItem, NavLink, TabContent,TabPane,Row, Col, Card, CardTitle, CardText, Button  } from 'reactstrap';
 import classnames from 'classnames';
 
-
+//import Search from '../../widgets/containers/search';
+import Search from '../../widgets/components/search';
 
 class Home extends Component {
     constructor(props) {
         super(props);
 
+        this.state = {};
+        this.grupos = props.data.grupos
+        //this.dia = props.dia
+        //this.handleOpenModal = props.handleOpenModal
+
         this.toggle = this.toggle.bind(this);
-        this.state = {
-            activeTab: '1'
-        };
         
-    // console.log("ok")
-    // console.log(this.props)
-    // console.log("end")
+        this.state = {
+            activeTab: '1',
+            artistaGrupo: ''
+        };
+
+        // Toggle the state every second
+          // setInterval(() => {
+          //   this.setState({ artistaGrupo: this.state.artistaGrupo });
+          // }, 1000);
+        
     }
+
+
+
+  handleSubmit = event => {
+    event.preventDefault();
+    //console.log(this.input.value, 'submit')
+
+  }
+
+  setInputRef = element => {
+    this.input = element;
+  }
+
+  handleInputChange = event => {
+    //console.log(event.target.value, 'ok')
+
+    this.setState({ artistaGrupo: event.target.value });
+
+    
+    // this.setState({
+    //   artistaGrupo: event.target.value.toString().toLowerCase()//.replace(' ', ' ')
+      
+    // })
+    // console.log(this.state.value)
+  }
+
+
 
     toggle(tab) {
         if (this.state.activeTab !== tab) {
@@ -66,16 +103,29 @@ class Home extends Component {
             </NavLink>
           </NavItem>
         </Nav>
+
+
+
         <TabContent activeTab={this.state.activeTab}>
           
           
           <TabPane tabId="1">
             <Row>
               <Col sm="12">
+
+              <Search
+                    setRef={this.setInputRef}
+                    handleSubmit={this.handleSubmit}
+                    handleChange={this.handleInputChange}
+                    value={this.state.artistaGrupo}
+                  />
+
               <Grupos
                 grupos={this.props.data.grupos}
-                dia={'viernes'}
+                dia={this.state.activeTab}
+                artistaGrupo={this.state.artistaGrupo}
                 />
+
               </Col>
             </Row>
           </TabPane>
@@ -84,10 +134,23 @@ class Home extends Component {
           <TabPane tabId="2">
             <Row>
             <Col sm="12">
-            <Grupos
+
+
+                <Search
+                    setRef={this.setInputRef}
+                    handleSubmit={this.handleSubmit}
+                    handleChange={this.handleInputChange}
+                    value={this.state.artistaGrupo}
+                  />
+
+              <Grupos
                 grupos={this.props.data.grupos}
-                dia={"sabado"}
+                dia={this.state.activeTab}
+                artistaGrupo={this.state.artistaGrupo}
                 />
+
+
+            
             </Col>
             </Row>
           </TabPane>

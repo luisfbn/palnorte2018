@@ -1,0 +1,10 @@
+.nav-link {
+    cursor: pointer
+  }
+
+  .Home {
+    /* display: flex; */
+    /* margin: 0 auto; */
+    min-height: 100vh;
+  }
+  

@@ -5,6 +5,7 @@ import './grupo.css';
 
 function Grupo(props) {
   return (
+    
    <ul className="list-group">
       <li className="list-group-item justify-content-between">
       <h2 className="Grupo-title">{props.ArtistaGrupo}</h2> 
