@@ -12,7 +12,7 @@ function Grupo(props) {
       <p className="card-text">
         { props.Escenario } 
         <br />
-        { "De " + props.inicio + " a " + props.fin } 
+        { "De " + props.inicio + " a " + props.fin + " (" + props.dia.replace('sabado', 'sábado') + ")"} 
       </p>
       
       </li>

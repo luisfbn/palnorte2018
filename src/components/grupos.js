@@ -18,8 +18,21 @@ function Grupos(props) {
                               var b1 = new Date(a.fecha.substring(6, 10), a.fecha.substring(3, 5)-1, a.fecha.substring(0, 2), a.inicio.split(':')[0], a.inicio.split(':')[1], 0);
                               return a1>b1 ? -1 : a1<b1 ? 1 : 0;
                           })
+
           .filter(gpo => {return gpo.dia === (props.dia == 1 ? "viernes" : "sabado")})
           .filter(gpo => {return gpo.ArtistaGrupo.toString().toLowerCase().indexOf(props.artistaGrupo.toString().toLowerCase()) > -1 || props.artistaGrupo === ''})
+          .filter(a => {
+                          var hraGpo = new Date(
+                                                a.fecha.substring(6, 10), 
+                                                a.fecha.substring(3, 5)-1, 
+                                                a.fecha.substring(0, 2), 
+                                                a.fin.split(':')[0], 
+                                                a.fin.split(':')[1], 0);
+                          //var hraGpo_20 = new Date ( hraGpo );
+                          //hraGpo_20.setMinutes(hraGpo.getMinutes() - 20);
+                          return hraGpo >= props.today
+                          }
+                  )
           //https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/filter
           //this.input.value
           .map((item) =>{

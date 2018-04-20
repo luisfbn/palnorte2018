@@ -27,13 +27,14 @@ class Home extends Component {
         
         this.state = {
             activeTab: '1',
-            artistaGrupo: ''
+            artistaGrupo: '',
+            today: new Date() 
         };
 
         // Toggle the state every second
-          // setInterval(() => {
-          //   this.setState({ artistaGrupo: this.state.artistaGrupo });
-          // }, 1000);
+        setInterval(() => {
+           this.setState({ today: new Date() });
+         }, 1000);
         
     }
 
@@ -124,6 +125,7 @@ class Home extends Component {
                 grupos={this.props.data.grupos}
                 dia={this.state.activeTab}
                 artistaGrupo={this.state.artistaGrupo}
+                today = {this.state.today}
                 />
 
               </Col>
@@ -147,6 +149,7 @@ class Home extends Component {
                 grupos={this.props.data.grupos}
                 dia={this.state.activeTab}
                 artistaGrupo={this.state.artistaGrupo}
+                today = {this.state.today}
                 />
 
 
