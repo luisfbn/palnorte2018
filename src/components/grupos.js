@@ -21,20 +21,7 @@ function Grupos(props) {
 
           .filter(gpo => {return gpo.dia === (props.dia == 1 ? "viernes" : "sabado")})
           .filter(gpo => {return gpo.ArtistaGrupo.toString().toLowerCase().indexOf(props.artistaGrupo.toString().toLowerCase()) > -1 || props.artistaGrupo === ''})
-          .filter(a => {
-                          var hraGpo = new Date(
-                                                a.fecha.substring(6, 10), 
-                                                a.fecha.substring(3, 5)-1, 
-                                                a.fecha.substring(0, 2), 
-                                                a.fin.split(':')[0], 
-                                                a.fin.split(':')[1], 0);
-                          //var hraGpo_20 = new Date ( hraGpo );
-                          //hraGpo_20.setMinutes(hraGpo.getMinutes() - 20);
-                          return hraGpo >= props.today
-                          }
-                  )
-          //https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/filter
-          //this.input.value
+          //Insertar filtro comentado en la parte inferior cuando se quiere firtrar el "en vivo", quitando los grupos que ya salieron
           .map((item) =>{
 
           return (
@@ -52,3 +39,21 @@ function Grupos(props) {
 }
 
 export default Grupos
+
+/*
+.filter(a => {
+  var hraGpo = new Date(
+                        a.fecha.substring(6, 10), 
+                        a.fecha.substring(3, 5)-1, 
+                        a.fecha.substring(0, 2), 
+                        a.fin.split(':')[0], 
+                        a.fin.split(':')[1], 0);
+  //var hraGpo_20 = new Date ( hraGpo );
+  //hraGpo_20.setMinutes(hraGpo.getMinutes() - 20);
+  return hraGpo >= props.today
+  }
+)
+//https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/filter
+//this.input.value
+
+*/
